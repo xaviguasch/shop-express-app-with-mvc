@@ -1,1 +1,23 @@
-[{"title":"1st product","imageUrl":"https://previews.123rf.com/images/benchart/benchart1204/benchart120400018/13237662-illustration-of-a-cartoon-opened-brown-book.jpg","description":"a description","price":"10","id":"0.7618433055806391"},{"title":"another book","imageUrl":"https://www.rd.com/wp-content/uploads/2017/11/How-Much-Does-a-Book-Need-to-Sell-to-Be-a-Bestseller-509582812-Billion-Photos-1024x683.jpg","description":"ssss","price":"","id":"0.7628078496585895"},{"title":"3rd product","imageUrl":"http://clipart-library.com/images/6Tpo6G8TE.jpg","description":"","price":"20","id":"0.2967800617892724"}]
+[
+  {
+    "title": "1st product",
+    "imageUrl": "https://previews.123rf.com/images/benchart/benchart1204/benchart120400018/13237662-illustration-of-a-cartoon-opened-brown-book.jpg",
+    "description": "a description",
+    "price": "10",
+    "id": "12345"
+  },
+  {
+    "title": "another book",
+    "imageUrl": "https://www.rd.com/wp-content/uploads/2017/11/How-Much-Does-a-Book-Need-to-Sell-to-Be-a-Bestseller-509582812-Billion-Photos-1024x683.jpg",
+    "description": "ssss",
+    "price": "",
+    "id": "23456"
+  },
+  {
+    "title": "3rd product",
+    "imageUrl": "http://clipart-library.com/images/6Tpo6G8TE.jpg",
+    "description": "",
+    "price": "20",
+    "id": "5969669"
+  }
+]
